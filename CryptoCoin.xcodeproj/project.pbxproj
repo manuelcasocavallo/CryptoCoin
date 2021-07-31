@@ -16,6 +16,7 @@
 		FA14FDF026B574A1000EC3BB /* CoinManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA14FDEF26B574A1000EC3BB /* CoinManager.swift */; };
 		FA14FDF326B574D4000EC3BB /* APIData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA14FDF226B574D4000EC3BB /* APIData.swift */; };
 		FA14FDF526B574F8000EC3BB /* APIModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA14FDF426B574F8000EC3BB /* APIModel.swift */; };
+		FAF64E4926B5839100206F2C /* APIKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAF64E4826B5839100206F2C /* APIKey.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		FA14FDEF26B574A1000EC3BB /* CoinManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoinManager.swift; sourceTree = "<group>"; };
 		FA14FDF226B574D4000EC3BB /* APIData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIData.swift; sourceTree = "<group>"; };
 		FA14FDF426B574F8000EC3BB /* APIModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIModel.swift; sourceTree = "<group>"; };
+		FAF64E4826B5839100206F2C /* APIKey.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIKey.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				FA14FDEF26B574A1000EC3BB /* CoinManager.swift */,
 				FA14FDF226B574D4000EC3BB /* APIData.swift */,
 				FA14FDF426B574F8000EC3BB /* APIModel.swift */,
+				FAF64E4826B5839100206F2C /* APIKey.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -163,6 +166,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FA14FDF026B574A1000EC3BB /* CoinManager.swift in Sources */,
+				FAF64E4926B5839100206F2C /* APIKey.swift in Sources */,
 				FA14FDE026B57477000EC3BB /* ViewController.swift in Sources */,
 				FA14FDDC26B57477000EC3BB /* AppDelegate.swift in Sources */,
 				FA14FDF326B574D4000EC3BB /* APIData.swift in Sources */,
